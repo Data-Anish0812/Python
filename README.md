@@ -1,3 +1,5 @@
+# Dengue Risk Asessor
+**Dengue Risk Asessor** is a Python-based GUI application designed to assist healthcare providers in diagnosing whether a patient is at risk of having dengue fever. This project utilizes a simple yet effective user interface where medical data of patients such as age, gender, fever, joint pain, blood pressure, doctor remarks, and patient number are inputted. Based on these inputs, the system evaluates the likelihood of dengue and presents the diagnosis to the user.
 # Quiz Bot
 This project features a simple quiz bot created in Python that engages users by asking a series of questions and evaluating their responses. Using if-else statements, the bot provides immediate feedback on whether the answers are correct or incorrect. At the end of the quiz, it calculates and displays the user's score, offering a straightforward and interactive experience. The bot is designed to be easy to use, making it a great example of basic Python programming and user interaction. Users can run the script and participate in the quiz, enjoying a fun and educational challenge.
 # Restaurant Management System
